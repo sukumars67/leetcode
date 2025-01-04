@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sukumars67/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sukumars67/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -23,4 +24,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sukumars67/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sukumars67/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sukumars67/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
