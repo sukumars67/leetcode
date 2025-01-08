@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sukumars67/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sukumars67/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sukumars67/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukumars67/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sukumars67/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sukumars67/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/sukumars67/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sukumars67/leetcode/tree/master/0695-max-area-of-island) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sukumars67/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sukumars67/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/sukumars67/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sukumars67/leetcode/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -104,4 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sukumars67/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sukumars67/leetcode/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
