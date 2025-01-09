@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/sukumars67/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/sukumars67/leetcode/tree/master/0214-shortest-palindrome) |
+| [0763-special-binary-string](https://github.com/sukumars67/leetcode/tree/master/0763-special-binary-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sukumars67/leetcode/tree/master/0214-shortest-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0763-special-binary-string](https://github.com/sukumars67/leetcode/tree/master/0763-special-binary-string) |
 <!---LeetCode Topics End-->
