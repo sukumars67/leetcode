@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sukumars67/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 ## Tree
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/sukumars67/leetcode/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/sukumars67/leetcode/tree/master/0763-special-binary-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sukumars67/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 ## Backtracking
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sukumars67/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+## Sliding Window
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
