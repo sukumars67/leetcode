@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sukumars67/leetcode/tree/master/0012-integer-to-roman) |
 | [0347-top-k-frequent-elements](https://github.com/sukumars67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukumars67/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2226-rings-and-rods](https://github.com/sukumars67/leetcode/tree/master/2226-rings-and-rods) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/sukumars67/leetcode/tree/master/0763-special-binary-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sukumars67/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+| [2226-rings-and-rods](https://github.com/sukumars67/leetcode/tree/master/2226-rings-and-rods) |
 ## Backtracking
 |  |
 | ------- |
