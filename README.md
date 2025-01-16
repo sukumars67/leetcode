@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sukumars67/leetcode/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/sukumars67/leetcode/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/sukumars67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukumars67/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sukumars67/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sukumars67/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sukumars67/leetcode/tree/master/0012-integer-to-roman) |
+| [0076-minimum-window-substring](https://github.com/sukumars67/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/sukumars67/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/sukumars67/leetcode/tree/master/0214-shortest-palindrome) |
@@ -152,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sukumars67/leetcode/tree/master/0076-minimum-window-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
