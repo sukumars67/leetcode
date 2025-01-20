@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sukumars67/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sukumars67/leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/sukumars67/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sukumars67/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/sukumars67/leetcode/tree/master/0093-restore-ip-addresses) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sukumars67/leetcode/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/sukumars67/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sukumars67/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
