@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sukumars67/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/sukumars67/leetcode/tree/master/0214-shortest-palindrome) |
 | [0763-special-binary-string](https://github.com/sukumars67/leetcode/tree/master/0763-special-binary-string) |
+| [1078-remove-outermost-parentheses](https://github.com/sukumars67/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sukumars67/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/sukumars67/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/sukumars67/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sukumars67/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
 |  |
