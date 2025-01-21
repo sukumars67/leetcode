@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sukumars67/leetcode/tree/master/0012-integer-to-roman) |
+| [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-special-binary-string](https://github.com/sukumars67/leetcode/tree/master/0763-special-binary-string) |
+| [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sukumars67/leetcode/tree/master/0076-minimum-window-substring) |
 | [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
