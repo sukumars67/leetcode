@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sukumars67/leetcode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/sukumars67/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sukumars67/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
 ## String
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sukumars67/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sukumars67/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/sukumars67/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sukumars67/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sukumars67/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
