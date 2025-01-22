@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sukumars67/leetcode/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sukumars67/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/sukumars67/leetcode/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/sukumars67/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0214-shortest-palindrome](https://github.com/sukumars67/leetcode/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/sukumars67/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sukumars67/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sukumars67/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sukumars67/leetcode/tree/master/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/sukumars67/leetcode/tree/master/0087-scramble-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/sukumars67/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sukumars67/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
