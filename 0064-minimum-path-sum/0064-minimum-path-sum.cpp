@@ -1,10 +1,10 @@
 class Solution {
 public:
     int solve(int i,int j,int n,int m,vector<vector<int>> &grid,vector<vector<int>> & dp){
-        if(i>=n || j>=m) return 100000;
+        if(i>=n || j>=m) return INT_MAX;
         if(i==n-1 && j==m-1) return grid[i][j];
         if(dp[i][j]!=-1) return dp[i][j];
-        return dp[i][j]=min(grid[i][j]+solve(i+1,j,n,m,grid,dp),grid[i][j]+solve(i,j+1,n,m,grid,dp));
+        return dp[i][j]=grid[i][j]+min(solve(i+1,j,n,m,grid,dp),solve(i,j+1,n,m,grid,dp));
     }
     int minPathSum(vector<vector<int>>& grid) {
         
