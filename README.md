@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sukumars67/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sukumars67/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sukumars67/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/sukumars67/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0695-max-area-of-island](https://github.com/sukumars67/leetcode/tree/master/0695-max-area-of-island) |
 | [1129-longest-string-chain](https://github.com/sukumars67/leetcode/tree/master/1129-longest-string-chain) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sukumars67/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sukumars67/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sukumars67/leetcode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/sukumars67/leetcode/tree/master/0087-scramble-string) |
+| [0376-wiggle-subsequence](https://github.com/sukumars67/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/sukumars67/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/sukumars67/leetcode/tree/master/1129-longest-string-chain) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/sukumars67/leetcode/tree/master/1129-longest-string-chain) |
+## Greedy
+|  |
+| ------- |
+| [0376-wiggle-subsequence](https://github.com/sukumars67/leetcode/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
