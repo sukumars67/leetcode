@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/sukumars67/leetcode/tree/master/0763-special-binary-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sukumars67/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/sukumars67/leetcode/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/sukumars67/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sukumars67/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/sukumars67/leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sukumars67/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sukumars67/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/sukumars67/leetcode/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/sukumars67/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sukumars67/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Memoization
 |  |
