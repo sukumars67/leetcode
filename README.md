@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sukumars67/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sukumars67/leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
+| [0135-candy](https://github.com/sukumars67/leetcode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/sukumars67/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukumars67/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sukumars67/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -213,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/sukumars67/leetcode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/sukumars67/leetcode/tree/master/0376-wiggle-subsequence) |
 <!---LeetCode Topics End-->
