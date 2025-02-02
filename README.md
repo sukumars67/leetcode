@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sukumars67/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/sukumars67/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sukumars67/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sukumars67/leetcode/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukumars67/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sukumars67/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/sukumars67/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sukumars67/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sukumars67/leetcode/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sukumars67/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sukumars67/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sukumars67/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sukumars67/leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -216,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/sukumars67/leetcode/tree/master/0135-candy) |
 | [0376-wiggle-subsequence](https://github.com/sukumars67/leetcode/tree/master/0376-wiggle-subsequence) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sukumars67/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
