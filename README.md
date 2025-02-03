@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sukumars67/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/sukumars67/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sukumars67/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sukumars67/leetcode/tree/master/0063-unique-paths-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sukumars67/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1129-longest-string-chain](https://github.com/sukumars67/leetcode/tree/master/1129-longest-string-chain) |
 ## Greedy
 |  |
