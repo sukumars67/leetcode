@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sukumars67/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sukumars67/leetcode/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/sukumars67/leetcode/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/sukumars67/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sukumars67/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sukumars67/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sukumars67/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sukumars67/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sukumars67/leetcode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/sukumars67/leetcode/tree/master/0087-scramble-string) |
+| [0198-house-robber](https://github.com/sukumars67/leetcode/tree/master/0198-house-robber) |
 | [0376-wiggle-subsequence](https://github.com/sukumars67/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/sukumars67/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
