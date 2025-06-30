@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sukumars67/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/sukumars67/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/sukumars67/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sukumars67/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0695-max-area-of-island](https://github.com/sukumars67/leetcode/tree/master/0695-max-area-of-island) |
 | [1105-uncrossed-lines](https://github.com/sukumars67/leetcode/tree/master/1105-uncrossed-lines) |
 | [1129-longest-string-chain](https://github.com/sukumars67/leetcode/tree/master/1129-longest-string-chain) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/sukumars67/leetcode/tree/master/0087-scramble-string) |
 | [0198-house-robber](https://github.com/sukumars67/leetcode/tree/master/0198-house-robber) |
 | [0376-wiggle-subsequence](https://github.com/sukumars67/leetcode/tree/master/0376-wiggle-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/sukumars67/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sukumars67/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/sukumars67/leetcode/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/sukumars67/leetcode/tree/master/1105-uncrossed-lines) |
